@@ -1,0 +1,67 @@
+.container {
+    width: 600px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.satu {
+    width: 150px;
+    height: 500px;
+    background-color: salmon;
+    float: left;
+}
+
+.dua {
+    width: 300px;
+    height: 500px;
+    background-color: lightskyblue;
+    float: left;
+}
+
+.tiga {
+    width: 150px;
+    height: 500px;
+    background-color: greenyellow;
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+/* .kotak {
+    width: 70px;
+    height: 70px;
+    background-color: salmon;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+    font-size: 30px;
+    margin: 5px;
+    float: left;
+} */
+
+/* 
+img {
+    float: left;
+}
+
+.satu {
+    width: 100px;
+    height: 100px;
+    background-color: salmon;
+}
+
+.dua {
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    float: right;
+}
+
+.tiga {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+} */
