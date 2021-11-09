@@ -1,0 +1,18 @@
+.hello:hover {
+    color: tomato;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+
+.hello:active {
+    font-style: italic;
+}
+
+li:nth-child(3n-2) a {
+    color: red;
+}
+
+p:last-of-type {
+    color: silver;
+}
